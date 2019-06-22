@@ -1,0 +1,311 @@
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-01-28 02:29:27.532709
+----------------- Test Results ----------------
+-10	No Makefile submitted.
+-90	Test stopped due to the absence of Makefile.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-01-28 21:54:58.489156
+----------------- Test Results ----------------
+-10	No Makefile submitted.
+-90	Test stopped due to the absence of Makefile.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+0/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-01-29 23:37:17.794778
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: wget small file from your server succeeded!
+-0	Test Case 2: Your client getting file from your server succeeded!
+-15	Test Case 3: Concurrency failed: 'very' large file not correctly downloaded
+-10	Test Case 4: Your client failed to handle a 301 redirect properly.
+-5	Test Case 5: Your client failed to complete a simple request.
+-0	Test Case 6: Test non existing file passed.
+-0	Test Case 7: Did use the SO_REUSEADDR and SO_REUSEPORT socket options.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+70/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-01-30 19:31:22.029165
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: wget small file from your server succeeded!
+-0	Test Case 2: Your client getting file from your server succeeded!
+-15	Test Case 3: Concurrency failed: 'very' large file not correctly downloaded
+-10	Test Case 4: Your client failed to handle a 301 redirect properly.
+-5	Test Case 5: Program exceeded max allowed time.
+-0	Test Case 6: Test non existing file (404 Not Found) passed.
+-0	Test Case 7: Did use the SO_REUSEADDR and SO_REUSEPORT socket options.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+70/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-01-31 18:02:18.019084
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: wget small file from your server succeeded!
+-0	Test Case 2: Your client getting file from your server succeeded!
+-0	Test Case 3: Concurrency test succeeded!
+-10	Test Case 4: Your client failed to handle a 301 redirect properly.
+-0	Test Case 5: Your client completed a simple request to "http://www.example.com/".
+-0	Test Case 6: Test non existing file (404 Not Found) passed.
+-0	Test Case 7: Did use the SO_REUSEADDR and SO_REUSEPORT socket options.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+90/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-02-01 20:57:58.486963
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: wget small file from your server succeeded!
+-0	Test Case 2: Your client getting file from your server succeeded!
+-0	Test Case 3: Concurrency test succeeded!
+-0	Test Case 4: Your client handled a 301 redirect properly.
+-0	Test Case 5: Your client completed a simple request to "http://www.example.com/".
+-0	Test Case 6: Test non existing file (404 Not Found) passed.
+-0	Test Case 7: Did use the SO_REUSEADDR and SO_REUSEPORT socket options.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+100/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-02-02 20:53:12.483463
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: wget small file from your server succeeded!
+-0	Test Case 2: Your client getting file from your server succeeded!
+-0	Test Case 3: Concurrency test succeeded!
+-0	Test Case 4: Your client handled a 301 redirect properly.
+-0	Test Case 5: Your client completed a simple request to "http://www.example.com/".
+-0	Test Case 6: Test non existing file (404 Not Found) passed.
+-0	Test Case 7: Did use the SO_REUSEADDR and SO_REUSEPORT socket options.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+100/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-02-03 20:14:32.079113
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: wget small file from your server succeeded!
+-0	Test Case 2: Your client getting file from your server succeeded!
+-0	Test Case 3: Concurrency test succeeded!
+-0	Test Case 4: Your client handled a 301 redirect properly.
+-0	Test Case 5: Your client completed a simple request to "http://www.example.com/".
+-0	Test Case 6: Test non existing file (404 Not Found) passed.
+-0	Test Case 7: Did use the SO_REUSEADDR and SO_REUSEPORT socket options.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+100/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-02-04 21:08:14.468606
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: wget small file from your server succeeded!
+-0	Test Case 2: Your client getting file from your server succeeded!
+-0	Test Case 3: Concurrency test succeeded!
+-0	Test Case 4: Your client handled a 301 redirect properly.
+-0	Test Case 5: Your client completed a simple request to "http://www.example.com/".
+-0	Test Case 6: Test non existing file (404 Not Found) passed.
+-0	Test Case 7: Did use the SO_REUSEADDR and SO_REUSEPORT socket options.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+100/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-02-05 21:52:25.530578
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: wget small file from your server succeeded!
+-0	Test Case 2: Your client getting file from your server succeeded!
+-0	Test Case 3: Concurrency test succeeded!
+-0	Test Case 4: Your client handled a 301 redirect properly.
+-0	Test Case 5: Your client completed a simple request to "http://www.example.com/".
+-0	Test Case 6: Test non existing file (404 Not Found) passed.
+-0	Test Case 7: Did use the SO_REUSEADDR and SO_REUSEPORT socket options.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+100/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-02-06 03:32:08.422099
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: wget small file from your server succeeded!
+-0	Test Case 2: Your client getting file from your server succeeded!
+-0	Test Case 3: Concurrency test succeeded!
+-0	Test Case 4: Your client handled a 301 redirect properly.
+-0	Test Case 5: Your client completed a simple request to "http://www.example.com/".
+-0	Test Case 6: Test non existing file (404 Not Found) passed.
+-0	Test Case 7: Did use the SO_REUSEADDR and SO_REUSEPORT socket options.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+100/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-02-06 18:00:52.119570
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: wget small file from your server succeeded!
+-0	Test Case 2: Your client getting file from your server succeeded!
+-0	Test Case 3: Concurrency test succeeded!
+-0	Test Case 4: Your client handled a 301 redirect properly.
+-0	Test Case 5: Your client completed a simple request to "http://www.example.com/".
+-0	Test Case 6: Test non existing file (404 Not Found) passed.
+-0	Test Case 7: Did use the SO_REUSEADDR and SO_REUSEPORT socket options.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+100/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-02-06 20:06:17.309426
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: wget small file from your server succeeded!
+-0	Test Case 2: Your client getting file from your server succeeded!
+-0	Test Case 3: Concurrency test succeeded!
+-0	Test Case 4: Your client handled a 301 redirect properly.
+-0	Test Case 5: Your client completed a simple request to "http://www.example.com/".
+-0	Test Case 6: Test non existing file (404 Not Found) passed.
+-0	Test Case 7: Did use the SO_REUSEADDR and SO_REUSEPORT socket options.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+100/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-02-06 23:07:37.256390
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: wget small file from your server succeeded!
+-0	Test Case 2: Your client getting file from your server succeeded!
+-0	Test Case 3: Concurrency test succeeded!
+-0	Test Case 4: Your client handled a 301 redirect properly.
+-0	Test Case 5: Your client completed a simple request to "http://www.example.com/".
+-0	Test Case 6: Test non existing file (404 Not Found) passed.
+-0	Test Case 7: Did use the SO_REUSEADDR and SO_REUSEPORT socket options.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+100/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-02-07 18:12:14.752501
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: wget small file from your server succeeded!
+-0	Test Case 2: Your client getting file from your server succeeded!
+-0	Test Case 3: Concurrency test succeeded!
+-0	Test Case 4: Your client handled a 301 redirect properly.
+-0	Test Case 5: Your client completed a simple request to "http://www.example.com/".
+-0	Test Case 6: Test non existing file (404 Not Found) passed.
+-0	Test Case 7: Did use the SO_REUSEADDR and SO_REUSEPORT socket options.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+100/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-02-07 23:01:17.874522
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: wget small file from your server succeeded!
+-0	Test Case 2: Your client getting file from your server succeeded!
+-0	Test Case 3: Concurrency test succeeded!
+-0	Test Case 4: Your client handled a 301 redirect properly.
+-0	Test Case 5: Your client completed a simple request to "http://www.example.com/".
+-0	Test Case 6: Test non existing file (404 Not Found) passed.
+-0	Test Case 7: Did use the SO_REUSEADDR and SO_REUSEPORT socket options.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+100/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-02-08 15:23:37.313534
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: wget small file from your server succeeded!
+-0	Test Case 2: Your client getting file from your server succeeded!
+-0	Test Case 3: Concurrency test succeeded!
+-0	Test Case 4: Your client handled a 301 redirect properly.
+-0	Test Case 5: Your client completed a simple request to "http://www.example.com/".
+-0	Test Case 6: Test non existing file (404 Not Found) passed.
+-0	Test Case 7: Did use the SO_REUSEADDR and SO_REUSEPORT socket options.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+100/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-02-08 18:08:18.406979
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: wget small file from your server succeeded!
+-0	Test Case 2: Your client getting file from your server succeeded!
+-0	Test Case 3: Concurrency test succeeded!
+-0	Test Case 4: Your client handled a 301 redirect properly.
+-0	Test Case 5: Your client completed a simple request to "http://www.example.com/".
+-0	Test Case 6: Test non existing file (404 Not Found) passed.
+-0	Test Case 7: Did use the SO_REUSEADDR and SO_REUSEPORT socket options.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+100/100
+===================== End =====================
+
+
+=============== Auto-grader Test ===============
+Code Pull Time: 2019-02-11 02:05:02.554696
+----------------- Test Results ----------------
+-0	Compile: Ok
+-0	Test Case 1: wget small file from your server succeeded!
+-0	Test Case 2: Your client getting file from your server succeeded!
+-0	Test Case 3: Concurrency test succeeded!
+-0	Test Case 4: Your client handled a 301 redirect properly.
+-0	Test Case 5: Your client completed a simple request to "http://www.example.com/".
+-0	Test Case 6: Test non existing file (404 Not Found) passed.
+-0	Test Case 7: Did use the SO_REUSEADDR and SO_REUSEPORT socket options.
+-0	Late Penalty: Last commit happens before due.
+-------------------- Score --------------------
+100/100
+===================== End =====================
+
+
